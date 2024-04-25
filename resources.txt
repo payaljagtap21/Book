@@ -1,0 +1,9 @@
+System design book:
+----------------------
+
+https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md
+
+
+https://github.com/G33kzD3n/Catalogue/blob/master/Database%20Internals.pdf
+
+
